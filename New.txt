@@ -1,0 +1,20 @@
+* Basic:
+NMS, Windows_NT, AMD64, Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+ 
+* Public IP:
+125.235.235.47 
+ 
+* WinRE Status:
+Windows Recovery Environment (Windows RE) and system reset configuration
+Information:
+
+    Windows RE status:         Enabled
+    Windows RE location:       \\?\GLOBALROOT\device\harddisk0\partition1\Recovery\WindowsRE
+    Boot Configuration Data (BCD) identifier: 83d75f4c-06ef-11ec-af77-bc49f6d89e68
+    Recovery image location:   
+    Recovery image index:      0
+    Custom image location:     
+    Custom image index:        0
+
+REAGENTC.EXE: Operation Successful.
+    
