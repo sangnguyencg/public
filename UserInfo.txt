@@ -1,0 +1,5 @@
+* Basic:
+NMS-M, Windows_NT - 64-bit, AMD64 - Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+* Public IP:
+171.248.91.73
